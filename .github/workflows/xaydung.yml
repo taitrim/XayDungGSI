@@ -5,8 +5,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
-  ROM_NAME: Generic
+  ROM_URL: https://mva2.androidfilehost.com/dl/z_KTyM4KeM65rrGC4mZ2qA/1615520327/17248734326145715655/xiaomi-miui-hellas-XTRV-HMK20ProMI9TPro_V12.0.6.0.QFKCNXM_v12-10.zip?
+  ROM_NAME: MIUI
   BUILD_AB: true
   BUILD_Aonly: false
   ROM_AONLY: ROM_A.7z
